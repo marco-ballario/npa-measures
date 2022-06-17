@@ -116,6 +116,17 @@
                             "branches_max": 2.0,
                             "conditions_min": 7.0,
                             "conditions_max": 7.0
+                        },
+                        "npa": {
+                            "classes": 0.0,
+                            "interfaces": 0.0,
+                            "class_attributes": 0.0,
+                            "interface_attributes": 0.0,
+                            "classes_average": null,
+                            "interfaces_average": null,
+                            "total": 0.0,
+                            "total_attributes": 0.0,
+                            "average": null
                         }
                     }
                 },
@@ -225,6 +236,17 @@
                             "branches_max": 1.0,
                             "conditions_min": 2.0,
                             "conditions_max": 2.0
+                        },
+                        "npa": {
+                            "classes": 0.0,
+                            "interfaces": 0.0,
+                            "class_attributes": 0.0,
+                            "interface_attributes": 0.0,
+                            "classes_average": null,
+                            "interfaces_average": null,
+                            "total": 0.0,
+                            "total_attributes": 0.0,
+                            "average": null
                         }
                     }
                 },
@@ -334,6 +356,17 @@
                             "branches_max": 1.0,
                             "conditions_min": 0.0,
                             "conditions_max": 0.0
+                        },
+                        "npa": {
+                            "classes": 0.0,
+                            "interfaces": 0.0,
+                            "class_attributes": 0.0,
+                            "interface_attributes": 0.0,
+                            "classes_average": null,
+                            "interfaces_average": null,
+                            "total": 0.0,
+                            "total_attributes": 0.0,
+                            "average": null
                         }
                     }
                 },
@@ -443,6 +476,17 @@
                             "branches_max": 0.0,
                             "conditions_min": 0.0,
                             "conditions_max": 0.0
+                        },
+                        "npa": {
+                            "classes": 0.0,
+                            "interfaces": 0.0,
+                            "class_attributes": 0.0,
+                            "interface_attributes": 0.0,
+                            "classes_average": null,
+                            "interfaces_average": null,
+                            "total": 0.0,
+                            "total_attributes": 0.0,
+                            "average": null
                         }
                     }
                 },
@@ -552,6 +596,17 @@
                             "branches_max": 10.0,
                             "conditions_min": 13.0,
                             "conditions_max": 13.0
+                        },
+                        "npa": {
+                            "classes": 0.0,
+                            "interfaces": 0.0,
+                            "class_attributes": 0.0,
+                            "interface_attributes": 0.0,
+                            "classes_average": null,
+                            "interfaces_average": null,
+                            "total": 0.0,
+                            "total_attributes": 0.0,
+                            "average": null
                         }
                     }
                 }
@@ -659,6 +714,17 @@
                 },
                 "wmc": {
                     "wmc": 26.0
+                },
+                "npa": {
+                    "classes": 0.0,
+                    "interfaces": 0.0,
+                    "class_attributes": 3.0,
+                    "interface_attributes": 0.0,
+                    "classes_average": 0.0,
+                    "interfaces_average": null,
+                    "total": 0.0,
+                    "total_attributes": 3.0,
+                    "average": 0.0
                 }
             }
         }
@@ -766,6 +832,17 @@
         },
         "wmc": {
             "wmc_total": 26.0
+        },
+        "npa": {
+            "classes": 0.0,
+            "interfaces": 0.0,
+            "class_attributes": 3.0,
+            "interface_attributes": 0.0,
+            "classes_average": 0.0,
+            "interfaces_average": null,
+            "total": 0.0,
+            "total_attributes": 3.0,
+            "average": 0.0
         }
     }
 }

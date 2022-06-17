@@ -116,6 +116,17 @@
                             "branches_max": 3.0,
                             "conditions_min": 0.0,
                             "conditions_max": 0.0
+                        },
+                        "npa": {
+                            "classes": 0.0,
+                            "interfaces": 0.0,
+                            "class_attributes": 0.0,
+                            "interface_attributes": 0.0,
+                            "classes_average": null,
+                            "interfaces_average": null,
+                            "total": 0.0,
+                            "total_attributes": 0.0,
+                            "average": null
                         }
                     }
                 }
@@ -223,6 +234,17 @@
                 },
                 "wmc": {
                     "wmc": 1.0
+                },
+                "npa": {
+                    "classes": 0.0,
+                    "interfaces": 0.0,
+                    "class_attributes": 0.0,
+                    "interface_attributes": 0.0,
+                    "classes_average": null,
+                    "interfaces_average": null,
+                    "total": 0.0,
+                    "total_attributes": 0.0,
+                    "average": null
                 }
             }
         }
@@ -330,6 +352,17 @@
         },
         "wmc": {
             "wmc_total": 1.0
+        },
+        "npa": {
+            "classes": 0.0,
+            "interfaces": 0.0,
+            "class_attributes": 0.0,
+            "interface_attributes": 0.0,
+            "classes_average": null,
+            "interfaces_average": null,
+            "total": 0.0,
+            "total_attributes": 0.0,
+            "average": null
         }
     }
 }
