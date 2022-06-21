@@ -116,17 +116,6 @@
                             "branches_max": 8.0,
                             "conditions_min": 0.0,
                             "conditions_max": 0.0
-                        },
-                        "npa": {
-                            "classes": 0.0,
-                            "interfaces": 0.0,
-                            "class_attributes": 0.0,
-                            "interface_attributes": 0.0,
-                            "classes_average": null,
-                            "interfaces_average": null,
-                            "total": 0.0,
-                            "total_attributes": 0.0,
-                            "average": null
                         }
                     }
                 },
@@ -236,17 +225,6 @@
                             "branches_max": 4.0,
                             "conditions_min": 0.0,
                             "conditions_max": 0.0
-                        },
-                        "npa": {
-                            "classes": 0.0,
-                            "interfaces": 0.0,
-                            "class_attributes": 0.0,
-                            "interface_attributes": 0.0,
-                            "classes_average": null,
-                            "interfaces_average": null,
-                            "total": 0.0,
-                            "total_attributes": 0.0,
-                            "average": null
                         }
                     }
                 },
@@ -362,17 +340,6 @@
                                     "branches_max": 3.0,
                                     "conditions_min": 0.0,
                                     "conditions_max": 0.0
-                                },
-                                "npa": {
-                                    "classes": 0.0,
-                                    "interfaces": 0.0,
-                                    "class_attributes": 0.0,
-                                    "interface_attributes": 0.0,
-                                    "classes_average": null,
-                                    "interfaces_average": null,
-                                    "total": 0.0,
-                                    "total_attributes": 0.0,
-                                    "average": null
                                 }
                             }
                         }
@@ -477,17 +444,6 @@
                             "branches_max": 5.0,
                             "conditions_min": 0.0,
                             "conditions_max": 0.0
-                        },
-                        "npa": {
-                            "classes": 0.0,
-                            "interfaces": 0.0,
-                            "class_attributes": 0.0,
-                            "interface_attributes": 0.0,
-                            "classes_average": null,
-                            "interfaces_average": null,
-                            "total": 0.0,
-                            "total_attributes": 0.0,
-                            "average": null
                         }
                     }
                 },
@@ -609,17 +565,6 @@
                                             "branches_max": 3.0,
                                             "conditions_min": 0.0,
                                             "conditions_max": 0.0
-                                        },
-                                        "npa": {
-                                            "classes": 0.0,
-                                            "interfaces": 0.0,
-                                            "class_attributes": 0.0,
-                                            "interface_attributes": 0.0,
-                                            "classes_average": null,
-                                            "interfaces_average": null,
-                                            "total": 0.0,
-                                            "total_attributes": 0.0,
-                                            "average": null
                                         }
                                     }
                                 }
@@ -727,6 +672,17 @@
                                 },
                                 "wmc": {
                                     "wmc": 1.0
+                                },
+                                "npm": {
+                                    "classes": 1.0,
+                                    "interfaces": 0.0,
+                                    "class_methods": 1.0,
+                                    "interface_methods": 0.0,
+                                    "classes_average": 1.0,
+                                    "interfaces_average": null,
+                                    "total": 1.0,
+                                    "total_methods": 1.0,
+                                    "average": 1.0
                                 },
                                 "npa": {
                                     "classes": 0.0,
@@ -847,17 +803,6 @@
                                     "branches_max": 3.0,
                                     "conditions_min": 0.0,
                                     "conditions_max": 0.0
-                                },
-                                "npa": {
-                                    "classes": 0.0,
-                                    "interfaces": 0.0,
-                                    "class_attributes": 0.0,
-                                    "interface_attributes": 0.0,
-                                    "classes_average": null,
-                                    "interfaces_average": null,
-                                    "total": 0.0,
-                                    "total_attributes": 0.0,
-                                    "average": null
                                 }
                             }
                         }
@@ -962,17 +907,6 @@
                             "branches_max": 15.0,
                             "conditions_min": 0.0,
                             "conditions_max": 1.0
-                        },
-                        "npa": {
-                            "classes": 0.0,
-                            "interfaces": 0.0,
-                            "class_attributes": 0.0,
-                            "interface_attributes": 0.0,
-                            "classes_average": null,
-                            "interfaces_average": null,
-                            "total": 0.0,
-                            "total_attributes": 0.0,
-                            "average": null
                         }
                     }
                 },
@@ -1088,17 +1022,6 @@
                                     "branches_max": 3.0,
                                     "conditions_min": 0.0,
                                     "conditions_max": 0.0
-                                },
-                                "npa": {
-                                    "classes": 0.0,
-                                    "interfaces": 0.0,
-                                    "class_attributes": 0.0,
-                                    "interface_attributes": 0.0,
-                                    "classes_average": null,
-                                    "interfaces_average": null,
-                                    "total": 0.0,
-                                    "total_attributes": 0.0,
-                                    "average": null
                                 }
                             }
                         }
@@ -1203,17 +1126,6 @@
                             "branches_max": 12.0,
                             "conditions_min": 0.0,
                             "conditions_max": 8.0
-                        },
-                        "npa": {
-                            "classes": 0.0,
-                            "interfaces": 0.0,
-                            "class_attributes": 0.0,
-                            "interface_attributes": 0.0,
-                            "classes_average": null,
-                            "interfaces_average": null,
-                            "total": 0.0,
-                            "total_attributes": 0.0,
-                            "average": null
                         }
                     }
                 },
@@ -1329,17 +1241,6 @@
                                     "branches_max": 5.0,
                                     "conditions_min": 0.0,
                                     "conditions_max": 0.0
-                                },
-                                "npa": {
-                                    "classes": 0.0,
-                                    "interfaces": 0.0,
-                                    "class_attributes": 0.0,
-                                    "interface_attributes": 0.0,
-                                    "classes_average": null,
-                                    "interfaces_average": null,
-                                    "total": 0.0,
-                                    "total_attributes": 0.0,
-                                    "average": null
                                 }
                             }
                         }
@@ -1444,17 +1345,6 @@
                             "branches_max": 16.0,
                             "conditions_min": 0.0,
                             "conditions_max": 0.0
-                        },
-                        "npa": {
-                            "classes": 0.0,
-                            "interfaces": 0.0,
-                            "class_attributes": 0.0,
-                            "interface_attributes": 0.0,
-                            "classes_average": null,
-                            "interfaces_average": null,
-                            "total": 0.0,
-                            "total_attributes": 0.0,
-                            "average": null
                         }
                     }
                 },
@@ -1564,17 +1454,6 @@
                             "branches_max": 8.0,
                             "conditions_min": 0.0,
                             "conditions_max": 0.0
-                        },
-                        "npa": {
-                            "classes": 0.0,
-                            "interfaces": 0.0,
-                            "class_attributes": 0.0,
-                            "interface_attributes": 0.0,
-                            "classes_average": null,
-                            "interfaces_average": null,
-                            "total": 0.0,
-                            "total_attributes": 0.0,
-                            "average": null
                         }
                     }
                 },
@@ -1684,17 +1563,6 @@
                             "branches_max": 4.0,
                             "conditions_min": 0.0,
                             "conditions_max": 0.0
-                        },
-                        "npa": {
-                            "classes": 0.0,
-                            "interfaces": 0.0,
-                            "class_attributes": 0.0,
-                            "interface_attributes": 0.0,
-                            "classes_average": null,
-                            "interfaces_average": null,
-                            "total": 0.0,
-                            "total_attributes": 0.0,
-                            "average": null
                         }
                     }
                 },
@@ -1804,17 +1672,6 @@
                             "branches_max": 1.0,
                             "conditions_min": 0.0,
                             "conditions_max": 0.0
-                        },
-                        "npa": {
-                            "classes": 0.0,
-                            "interfaces": 0.0,
-                            "class_attributes": 0.0,
-                            "interface_attributes": 0.0,
-                            "classes_average": null,
-                            "interfaces_average": null,
-                            "total": 0.0,
-                            "total_attributes": 0.0,
-                            "average": null
                         }
                     }
                 },
@@ -1924,17 +1781,6 @@
                             "branches_max": 1.0,
                             "conditions_min": 0.0,
                             "conditions_max": 0.0
-                        },
-                        "npa": {
-                            "classes": 0.0,
-                            "interfaces": 0.0,
-                            "class_attributes": 0.0,
-                            "interface_attributes": 0.0,
-                            "classes_average": null,
-                            "interfaces_average": null,
-                            "total": 0.0,
-                            "total_attributes": 0.0,
-                            "average": null
                         }
                     }
                 },
@@ -2044,17 +1890,6 @@
                             "branches_max": 1.0,
                             "conditions_min": 2.0,
                             "conditions_max": 2.0
-                        },
-                        "npa": {
-                            "classes": 0.0,
-                            "interfaces": 0.0,
-                            "class_attributes": 0.0,
-                            "interface_attributes": 0.0,
-                            "classes_average": null,
-                            "interfaces_average": null,
-                            "total": 0.0,
-                            "total_attributes": 0.0,
-                            "average": null
                         }
                     }
                 }
@@ -2162,6 +1997,17 @@
                 },
                 "wmc": {
                     "wmc": 24.0
+                },
+                "npm": {
+                    "classes": 7.0,
+                    "interfaces": 0.0,
+                    "class_methods": 16.0,
+                    "interface_methods": 0.0,
+                    "classes_average": 0.4375,
+                    "interfaces_average": null,
+                    "total": 7.0,
+                    "total_methods": 16.0,
+                    "average": 0.4375
                 },
                 "npa": {
                     "classes": 0.0,
@@ -2280,6 +2126,17 @@
         },
         "wmc": {
             "wmc_total": 24.0
+        },
+        "npm": {
+            "classes": 7.0,
+            "interfaces": 0.0,
+            "class_methods": 16.0,
+            "interface_methods": 0.0,
+            "classes_average": 0.4375,
+            "interfaces_average": null,
+            "total": 7.0,
+            "total_methods": 16.0,
+            "average": 0.4375
         },
         "npa": {
             "classes": 0.0,

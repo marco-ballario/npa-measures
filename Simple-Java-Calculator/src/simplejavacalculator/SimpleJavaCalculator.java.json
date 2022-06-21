@@ -116,17 +116,6 @@
                             "branches_max": 4.0,
                             "conditions_min": 2.0,
                             "conditions_max": 2.0
-                        },
-                        "npa": {
-                            "classes": 0.0,
-                            "interfaces": 0.0,
-                            "class_attributes": 0.0,
-                            "interface_attributes": 0.0,
-                            "classes_average": null,
-                            "interfaces_average": null,
-                            "total": 0.0,
-                            "total_attributes": 0.0,
-                            "average": null
                         }
                     }
                 }
@@ -234,6 +223,17 @@
                 },
                 "wmc": {
                     "wmc": 2.0
+                },
+                "npm": {
+                    "classes": 1.0,
+                    "interfaces": 0.0,
+                    "class_methods": 1.0,
+                    "interface_methods": 0.0,
+                    "classes_average": 1.0,
+                    "interfaces_average": null,
+                    "total": 1.0,
+                    "total_methods": 1.0,
+                    "average": 1.0
                 },
                 "npa": {
                     "classes": 0.0,
@@ -352,6 +352,17 @@
         },
         "wmc": {
             "wmc_total": 2.0
+        },
+        "npm": {
+            "classes": 1.0,
+            "interfaces": 0.0,
+            "class_methods": 1.0,
+            "interface_methods": 0.0,
+            "classes_average": 1.0,
+            "interfaces_average": null,
+            "total": 1.0,
+            "total_methods": 1.0,
+            "average": 1.0
         },
         "npa": {
             "classes": 0.0,
