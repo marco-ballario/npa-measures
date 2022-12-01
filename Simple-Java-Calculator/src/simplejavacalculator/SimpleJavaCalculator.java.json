@@ -222,7 +222,9 @@
                     "conditions_max": 2.0
                 },
                 "wmc": {
-                    "wmc": 2.0
+                    "classes": 2.0,
+                    "interfaces": 0.0,
+                    "total": 2.0
                 },
                 "npm": {
                     "classes": 1.0,
@@ -351,7 +353,9 @@
             "conditions_max": 2.0
         },
         "wmc": {
-            "wmc_total": 2.0
+            "classes": 2.0,
+            "interfaces": 0.0,
+            "total": 2.0
         },
         "npm": {
             "classes": 1.0,
